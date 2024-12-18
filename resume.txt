@@ -1,0 +1,9 @@
+Task Management System
+A web-based application to help users efficiently organize and manage their tasks.
+
+Built with PHP, MySQL, HTML, CSS, and JavaScript.
+Features include user authentication, task categorization, priority setting, and CRUD operations (Create, Read, Update, Delete).
+Implemented responsive design with external CSS for a polished UI.
+Added custom functionality like a "show password" option and dropdowns for reusable categories.
+Managed data storage and security using MySQL database.
+Key Technologies: PHP, MySQL, JavaScript, HTML/CSS
